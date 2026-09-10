@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Microphone head -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M54,28 A9,9 0 0,0 45,37 L45,51 A9,9 0 0,0 63,51 L63,37 A9,9 0 0,0 54,28 Z" />
+    <!-- Microphone cradle -->
+    <path
+        android:fillColor="#6366F1"
+        android:pathData="M40,47 C40,56.5 46.5,63.5 54,63.5 C61.5,63.5 68,56.5 68,47 L72,47 C72,58 64,66.8 56.5,67.7 L56.5,74 L62,74 L62,78 L46,78 L46,74 L51.5,74 L51.5,67.7 C44,66.8 36,58 36,47 Z" />
+    <!-- Soundwaves left & right -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M31,43 C30,46.5 30,51.5 31,55 L27.5,56 C26,51.5 26,46.5 27.5,42 Z" />
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M77,43 C78,46.5 78,51.5 77,55 L80.5,56 C82,51.5 82,46.5 80.5,42 Z" />
+    <!-- Speech spark top-right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M69,27 L71.5,33 L77.5,35.5 L71.5,38 L69,44 L66.5,38 L60.5,35.5 L66.5,33 Z" />
+</vector>
+

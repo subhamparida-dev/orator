@@ -1,0 +1,6 @@
+{
+  "name": "Orator - AI Fluency & Presentation Coach",
+  "description": "AI presentation, English fluency, speaking confidence, and mock interview coach for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
